@@ -3,7 +3,7 @@
 
 #include <DS3232RTC.h>
 #include <Streaming.h>
-#include <Time.h>
+#include <TimeLib.h>
 #include <Wire.h>
 #include <SD.h>
 #include <SPI.h>
