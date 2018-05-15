@@ -9,7 +9,7 @@
 #include <SPI.h>
 
 //Pino CS do modulo cartao SD
-int CS_PIN = 4;
+int CS_PIN = 53;
 
 File file;
 
